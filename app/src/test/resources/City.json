@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Sunnyvale",
+    "lat": 37.373680,
+    "lon": -122.036568,
+    "country": "US",
+    "state": "California"
+  },
+  {
+    "name": "HicksVille",
+    "lat": 40.762562,
+    "lon": -73.523720,
+    "country": "US",
+    "state": "NewYork"
+  },
+  {
+    "name": "Toronto",
+    "lat": 43.653225,
+    "lon": -79.383186,
+    "country": "CA",
+    "state": "Ontario"
+  },
+  {
+    "name": "SanJose",
+    "lat": 37.334790,
+    "lon": -121.888140,
+    "country": "US",
+    "state": "California"
+  },
+  {
+    "name": "LouisVille",
+    "lat": 37.1289771,
+    "lon": -84.0832646,
+    "country": "US",
+    "state": "Kentucky"
+  }
+]
